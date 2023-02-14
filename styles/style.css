@@ -1,0 +1,50 @@
+body {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  margin: 7rem 0rem 0rem 11rem;
+  font-weight: bolder;
+}
+
+header {
+  margin: 4rem;
+}
+
+a {
+  color: white;
+  margin-left: 3rem;
+  font-size: 1.3rem;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.subtitulo {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.texto {
+  margin: 2rem 0rem 3rem 3rem;
+}
+
+.logo {
+  width: 6rem;
+  margin: 0rem 0rem  2rem 2rem;
+}
+
+.css-logo {
+  width: 4rem;
+}
+
+html { 
+  background: url(../images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
